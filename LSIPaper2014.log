@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_3) (preloaded format=pdflatex 2015.3.13)  20 MAR 2015 10:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/MacPorts 2014_3) (preloaded format=pdflatex 2015.3.13)  20 MAR 2015 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -136,18 +136,18 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 (./LSIPaper2014.aux)
 \openout1 = `LSIPaper2014.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 (/opt/local/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -211,16 +211,16 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 AAS 2-column preprint substyle, v5.2 <12 Dec 2003>.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 85.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 87.
 (/opt/local/share/texmf-texlive/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 85.
+LaTeX Font Info:    Try loading font information for U+msa on input line 87.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 85.
+LaTeX Font Info:    Try loading font information for U+msb on input line 87.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -228,113 +228,93 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ]
-
-LaTeX Warning: Reference `f:fig1' on page 2 undefined on input line 107.
-
-Package epstopdf Info: Source file: <./Figure1.eps>
-(epstopdf)                    date: 2015-02-17 13:10:05
+Package epstopdf Info: Source file: <./figs/Figure1.eps>
+(epstopdf)                    date: 2015-03-20 10:52:44
 (epstopdf)                    size: 249797 bytes
-(epstopdf)             Output file: <./Figure1-eps-converted-to.pdf>
-(epstopdf)             Command: <repstopdf --outfile=./Figure1-eps-converted-to
-.pdf ./Figure1.eps>
-(epstopdf)             \includegraphics on input line 115.
-runsystem(repstopdf --outfile=./Figure1-eps-converted-to.pdf ./Figure1.eps)...e
-xecuted safely (allowed).
+(epstopdf)             Output file: <./figs/Figure1-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-03-20 11:02:53
+(epstopdf)                    size: 97369 bytes
+(epstopdf)             Command: <repstopdf --outfile=./figs/Figure1-eps-convert
+ed-to.pdf ./figs/Figure1.eps>
+(epstopdf)             \includegraphics on input line 117.
+Package epstopdf Info: Output file is already uptodate.
 
-Package epstopdf Info: Result file: <./Figure1-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-03-20 10:49:41
-(epstopdf)                    size: 97369 bytes.
-<./Figure1-eps-converted-to.pdf, id=14, 699.61375pt x 475.7775pt>
-File: ./Figure1-eps-converted-to.pdf Graphic file (type pdf)
+<./figs/Figure1-eps-converted-to.pdf, id=16, 699.61375pt x 475.7775pt>
+File: ./figs/Figure1-eps-converted-to.pdf Graphic file (type pdf)
 
-<use ./Figure1-eps-converted-to.pdf>
-Package pdftex.def Info: ./Figure1-eps-converted-to.pdf used on input line 115.
-
+<use ./figs/Figure1-eps-converted-to.pdf>
+Package pdftex.def Info: ./figs/Figure1-eps-converted-to.pdf used on input line
+ 117.
 (pdftex.def)             Requested size: 234.87749pt x 159.72946pt.
 
-<figs/LSI-mod-lc-days-gt350gev.png, id=15, 598.235pt x 373.395pt>
+<figs/LSI-mod-lc-days-gt350gev.png, id=17, 598.235pt x 373.395pt>
 File: figs/LSI-mod-lc-days-gt350gev.png Graphic file (type png)
 
 <use figs/LSI-mod-lc-days-gt350gev.png>
 Package pdftex.def Info: figs/LSI-mod-lc-days-gt350gev.png used on input line 1
-20.
+22.
 (pdftex.def)             Requested size: 234.87749pt x 146.60344pt.
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 115--121
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 117--123
  [][] 
  []
 
 
-Overfull \hbox (24.73415pt too wide) in paragraph at lines 115--121
+Overfull \hbox (24.73415pt too wide) in paragraph at lines 117--123
  [] 
  []
 
-
-LaTeX Warning: Reference `sub@fig1' on page 2 undefined on input line 121.
-
-
-LaTeX Warning: Reference `sub@fig1b' on page 2 undefined on input line 121.
-
-[2 <./Figure1-eps-converted-to.pdf> <./figs/LSI-mod-lc-days-gt350gev.png>]
-
-LaTeX Warning: Reference `spec' on page 3 undefined on input line 129.
-
-<figs/LSI-mod-replot-spec.png, id=24, 598.235pt x 574.145pt>
+[2] <figs/LSI-mod-replot-spec.png, id=22, 598.235pt x 574.145pt>
 File: figs/LSI-mod-replot-spec.png Graphic file (type png)
 
 <use figs/LSI-mod-replot-spec.png>
-Package pdftex.def Info: figs/LSI-mod-replot-spec.png used on input line 133.
+Package pdftex.def Info: figs/LSI-mod-replot-spec.png used on input line 135.
 (pdftex.def)             Requested size: 234.87749pt x 225.42249pt.
 
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 133--134
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 135--136
  [][] 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 138--139
+Underfull \hbox (badness 1057) in paragraph at lines 140--141
 \OT1/cmr/m/n/10 be-ing mon-i-tored by \OT1/cmr/m/it/10 Fermi\OT1/cmr/m/n/10 -LA
 T ($0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 1  \OMS/cmsy/m/n/10 ^^@ ^^@ \OT1/cmr/m/n
 /10 300$
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 138--139
+Underfull \hbox (badness 1281) in paragraph at lines 140--141
 \OT1/cmr/m/n/10 (Novem-ber) was de-tected by VER-I-TAS, Atel
  []
 
-[3] [4
+(./LSIPaper2014.bbl) [3 <./figs/Figure1-eps-converted-to.pdf> <./figs/LSI-mod-l
+c-days-gt350gev.png>] [4
 
- <./figs/LSI-mod-replot-spec.png>] (./LSIPaper2014.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ <./figs/LSI-mod-replot-spec.png>] (./LSIPaper2014.aux) ) 
 Here is how much of TeX's memory you used:
- 2819 strings out of 494213
- 36653 string characters out of 6157463
- 97965 words of memory out of 5000000
- 6069 multiletter control sequences out of 15000+600000
- 12830 words of font info for 53 fonts, out of 8000000 for 9000
+ 2840 strings out of 494213
+ 36977 string characters out of 6157463
+ 102223 words of memory out of 5000000
+ 6086 multiletter control sequences out of 15000+600000
+ 14183 words of font info for 59 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 38i,6n,28p,2382b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
-</opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></o
-pt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/lo
-cal/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/local/s
-hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/local/share/
-texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/local/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/local/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/local/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmr5.pfb></opt/local/share/texmf-texlive/fonts/type1
-/public/amsfonts/cm/cmr6.pfb></opt/local/share/texmf-texlive/fonts/type1/public
-/amsfonts/cm/cmr7.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/c
-msy10.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.
-pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb><
-/opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on LSIPaper2014.pdf (4 pages, 282366 bytes).
+ 38i,6n,28p,2397b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
+</opt/local/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/local/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/local/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/local/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></opt/local/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb></opt/local/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></opt/local/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmr5.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr6
+.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/loc
+al/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/local/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/local/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on LSIPaper2014.pdf (4 pages, 287376 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

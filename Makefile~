@@ -1,4 +1,4 @@
-PROJECT=L
+PROJECT=LSIPaper2014
 TEX=pdflatex
 BIBTEX=bibtex
 BUILDTEX=$(TEX) $(PROJECT).tex
@@ -12,7 +12,7 @@ all:	convert tex
 
 tex:
 	$(BUILDTEX)
-	$(BIBTEX) $(PROJECT)
+	#$(BIBTEX) $(PROJECT)
 	$(BUILDTEX)
 	$(BUILDTEX)
 
