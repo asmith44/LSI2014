@@ -1,0 +1,144 @@
+%%
+%% Beginning of file 'sample.tex'
+%%
+%% Modified 2005 December 5
+%%
+%% This is a sample manuscript marked up using the
+%% AASTeX v5.x LaTeX 2e macros.
+
+%% The first piece of markup in an AASTeX v5.x document
+%% is the \documentclass command. LaTeX will ignore
+%% any data that comes before this command.
+
+%% The command below calls the preprint style
+%% which will produce a one-column, single-spaced document.
+%% Examples of commands for other substyles follow. Use
+%% whichever is most appropriate for your purposes.
+%%
+%%\documentclass[12pt,preprint]{aastex}
+
+%% manuscript produces a one-column, double-spaced document:
+
+\documentclass[preprint2]{aastex}
+
+%% preprint2 produces a double-column, single-spaced document:
+
+%% \documentclass[preprint2]{aastex}
+
+%% Sometimes a paper's abstract is too long to fit on the
+%% title page in preprint2 mode. When that is the case,
+%% use the longabstract style option.
+
+%% \documentclass[preprint2,longabstract]{aastex}
+
+%% If you want to create your own macros, you can do so
+%% using \newcommand. Your macros should appear before
+%% the \begin{document} command.
+%%
+%% If you are submitting to a journal that translates manuscripts
+%% into SGML, you need to follow certain guidelines when preparing
+%% your macros. See the AASTeX v5.x Author Guide
+%% for information.
+
+\newcommand{\vdag}{(v)^\dagger}
+\newcommand{\myemail}{}
+
+%% You can insert a short comment on the title page using the command below.
+
+
+%% If you wish, you may supply running head information, although
+%% this information may be modified by the editorial offices.
+%% The left head contains a list of authors,
+%% usually a maximum of three (otherwise use et al.).  The right
+%% head is a modified title of up to roughly 44 characters.
+%% Running heads will not print in the manuscript style.
+
+\shorttitle{Exceptionally Bright TeV Emission From the Binary LS I +61 303}
+\shortauthors{}
+
+%% This is the end of the preamble.  Indicate the beginning of the
+%% paper itself with \begin{document}.
+
+\begin{document}
+
+%% LaTeX will automatically break titles if they run longer than
+%% one line. However, you may use \\ to force a line break if
+%% you desire.
+
+\title{Exceptionally Bright TeV Emission From the Binary LS I +61 303}
+
+%% Use \author, \affil, and the \and command to format
+%% author and affiliation information.
+%% Note that \email has replaced the old \authoremail command
+%% from AASTeX v4.0. You can use \email to mark an email address
+%% anywhere in the paper, not just in the front matter.
+%% As in the title, use \\ to force line breaks.
+
+\author{}
+\affil{}
+
+
+%% Notice that each of these authors has alternate affiliations, which
+%% are identified by the \altaffilmark after each name.  Specify alternate
+%% affiliation information with \altaffiltext, with one command per each
+%% affiliation.
+
+\altaffiltext{1}{}
+
+%% Mark off your abstract in the ``abstract'' environment. In the manuscript
+%% style, abstract will output a Received/Accepted line after the
+%% title and affiliation information. No date will appear since the author
+%% does not have this information. The dates will be filled in by the
+%% editorial office after submission.
+
+\begin{abstract}
+The TeV binary system LS I +61 303 is known for its regular, although not entirely understood, non-thermal emission pattern which traces the orbital period of the compact object in its 26.5 day orbit around it Be star companion. When active in the TeV regime, the system typically presents elevated emission around apastron passage with flux levels in the 5-15$\%$ Crab Nebula range (above 350 GeV). Here we present VERITAS observations of LS I +61 303 taken in late 2014 which detected large TeV flares around apastron at flux levels peaking above 30$\%$ of the Crab Nebula flux, the brightest such activity ever seen in the TeV regime. We also provide a confirmation of the off-apastron emission seen by VERITAS previously. The strong outbursts observed have rise times of 1-2 days and a typical 1-2 day duration; during the 2014 observations LS I +61 303 was seen to go from a quiescent TeV state to one in which $>$10 TeV emission was detected from the system. This short acceleration time for particles (for galactic scale objects) provides strong constraints on the nature of the accelerating mechanism in LS I +61 303.
+
+
+\end{abstract}
+
+
+\keywords{}
+
+\section{Introduction}
+
+The current generation of Imaging Atmospheric Cherenkov Telescopes (IACTs) (VERITAS, HESS, MAGIC) has opened up the study of the class of High Mass X-ray binary star systems which also present TeV emission on various timescales. The class of these TeV binaries is quite sparse, consisting of only a handful of sources: LS 5039, LS I +61 303, HESS J0632+057, HESS ????, and PSR B1259-63. Of these, only the compact object in PSR B1259-63 has been firmly identified as a pulsar; the rest of the TeV binaries still have a large degree of ambiuity about the nature of the compact object within the system and, consequently, the fundamental setup which produces the TeV emission along with its characteristic variability. For instance, the presence of a pulsar within a given TeV binary indicates that the emission in the system is generated by the shock formed at the interface between the pulsar and stellar winds. The variability would therefore be driven principally by the varying density of the stellar wind density that the pulsar "sees" in its orbit. In the case of a black hole companion, the emission would be driven by an accretion driven jet. Modeling of the emission from these objects has driven a very active field with models falling into both of the above categories (binary pulsar vs micro quasar), as well as utilizing both leptionic and hadronic emission models. As more "direct" attempts to measure the nature of the systems in question have yet to yield decisive information (for example, constraining the inclination angle of viewing to narrow the compact mass down to rule out a black hole) the way forward appears to be provide further monitoring of the systems across the spectrum in the hopes of discovering some observational feature that would firmly identify these systems and the basic interacting parts within them. The TeV emission in these sources is correlated with the orbital periods of their compact objects; since the orbital periods vary from several days (LS 5039) to several years (PSR B129-63), the various sources can sometimes only present a short duty cycle for study in the TeV regime. Of the TeV binaries, LS I +61 303 is the only source in the Northern Hemisphere which has a short enough orbital period (26.5 days) to allow for regular study with TeV instruments. This has made it an excellent target for Northern Hemisphere TeV observatories. 
+
+LS I +61 303 is a high mass X-ray binary system at a distance of ?2 kpc, composed of a B0 Ve star and a compact object. The observed radio through optical
+emission is modulated with a period of P ~ 26.5 days, believed to be associated with the orbital period of the binary system [refs]. Radial velocity measurements show
+the orbit to be elliptical (e = 0.537$\pm$0.034), with periastron passage occurring around phase $\phi$=0.275, apastron passage at $\phi$ =0.775, superior conjunction at $\phi$=0.081 and inferior conjunction at $\phi$ =0.313 (Aragona et al. 2009).
+
+As a TeV source, LS I +61 303 has presented puzzling behavior. Initial detections in 2006-2007 by both the VERITAS and MAGIC collaborations [refs] over many orbital cycles showed the source to be a variably bright TeV source, with emission peaking around apastron passage (see Figure 1). Subsequent observations in 2008-2010 [12] showed no evidence for emission during these previously detected phases, instead only detecting the source at a lower TeV flux near the periastron passage of a single orbit. 
+
+However, VERITAS observations taken in Nov-Dec 2011 showed the source to be highly active around apastron again [refs], similar to the behavior observed in 2006/2007. In both the 2011-2012, and 2012-2013 timeframes, both MAGIC and VERITAS saw the source at only typical emission levels [refs], i.e. 5-15$\%$ of the Crab Nebula above 300 GeV. In this work we present the results of the VERITAS campaign on LS I +61 303 during the Fall of 2014. During this time, VERITAS observed LS I +61 303 to be flaring at historically high flux levels with the source presented flux levels a factor of 2-3 higher than seen previously. 
+
+\begin{figure}[h]
+\epsscale{1.0}
+\plotone{./Figure1.eps}
+\caption{The VERITAS $>$350 GeV light curve of LS I +61$^{\circ}$ 303 during the 2014 observation season. } 
+\label{fig1}}
+\end{figure}
+
+
+\section{Observations}
+The VERITAS IACT array, located at the base of Mt. Hopkins, AZ (1.3 km a.s.l., 3140'30"N, 11057'07" W) consists of four Davies-Cotton design optical telescopes (12m diameter). Each VERITAS telescope consists of 350 hexagonal mirror facets which focus Cherenkov flashes created by gamma-ray air showers in the atmosphere onto a pixelated photo-multiplier tube  (PMT) camera consisting of 499 Hamamatsu Blah Blah high QE PMTs. VERITAS is sensitive in the energy range of 80 GeV to 40 TeV and has the ability to detect a 1$\%$ Crab Nebula source in approximately 25 hours. For a full description of the hardware components and analysis methods utilized by VERITAS, please see [][].
+
+In the 2014 season, VERITAS observations of LS I +61 303 were taken from October 16 (MJD 56946) to  December 12 (MJD 57003) obtaining a total of 24.7 hours of quality selected livetime observations. These observations covered three separate orbits of LS I +61 303, sampling the orbital regions of $\phi$= 0.5-0.2 (See Figure 1). For the entire observation set, the a total of 449 excess events above background were detected, equivalent to significance of 21$\sigma$. During the first orbit observed (in October) the source presented the largest of its flares (hereinafter "F1"), beginning on Oct 17, 2014  (MJD 56947, $\phi$ =  0.55) with emission reaching a peak of 3.0 $\pm$ 0.3 $\times$10$^{-11} photons cm$^{-2}$ s$\^{-1}$ ($>$350 GeV) on October 18 (MJD 56948). This flare peaked at approximately 30$\%$ of the Crab Nebula flux in the same energy range and represents the largest flux ever detected from the source. Unfortunately, poor weather conditions limited observations for the next few nights after this peak and only recommenced when the source had already quieted down, on October 20 (MJD 56950).  As can be seen in Figure 1, this flare is rather sharply defined: only one night before the flare began, the source was in a quescient state with a 99$\%$ confidence upper limit of emission placed on it of 1.4 $\times$10$^{-11}$ photons cm$^{-2}$ s$\^{-1}$ ($>$350 GeV). This fast rising behavior confirms the result of [ref]. During the November observation (second orbital passage), VERITAS detected another period of high activity for the source at similar orbital phases ($\phi$ = 0.5-0.6) with similar flux levels detected. Additionally, during this orbit, VERITAS detected emission from the source during off-apastron passage phases of 0.1. This result confirms the initial detection of off-apastron emission presented in []. Follow-up observations conducted by VERITAS during the next month (December 10-12, 2014) covered the orbital phases of $\phi$=0.59-0.67 and detected the source at a lower flux level of $\sim$1.7$\times$10$^{-11}$photons cm$^{-2}$ s$\^{-1}$ ($>$350 GeV).
+
+During the 2014 observing season, the differential energy spectrum of LS I +61$^{\circ}$ 303 was consistent with past observations, i.e. the emission in the 0.2-25 TeV is well fit by a power-law described by $\pm$0.14$_{stat}$$\times$10$^{-8}$ $\times$($\frac{E}{\mathrm{1 TeV}})^{-2.59\pm0.15_{stat}}$ TeV$^{-1}$ m$^{-2}$ s$^{-1}$
+
+
+
+During these observations the source was also being monitored by Fermi-LAT (0.1-300 GeV), Swift-XRT (0.2-10 keV), and both the RATAN and AMI radio instruments (Ghz??). In addition, H-alpha monitoring of the system was taking place with the Ritter Observatory in Toledo, Ohio (USA). After the second flare (November) was detected by VERITAS, Atel $\#$6785 was released, notifying the astronomical community of the historic flux levels which triggered both more intense observations with the existing multiwavelenght partners, as well as additional observations with the MAGIC TeV observatory in the Canary Islands (refs). The results of this campaign are under analysis and will be presented in an upcoming publication. 
+
+
+\section{Discussion and Interpretation}
+
+
+
+
+
+\end{document}
+
+%%
+%% End of file `sample.tex'.
