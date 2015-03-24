@@ -1,0 +1,63 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abdo {et~al.}(2009)}]{Abdo2009}
+Abdo, A., {et~al.} 2009, ApJ, 701, L123
+
+\bibitem[{Acciari {et~al.}(2008)}]{VERITASLSIDetection}
+Acciari, V., {et~al.} 2008, ApJ, 679, 1427
+
+\bibitem[{{Acciari} {et~al.}(2011){Acciari}, {Aliu}, {Arlen}, {Aune},
+  {Beilicke}, {Benbow}, {Bradbury}, {Buckley}, {Bugaev}, {Byrum}, {Cannon},
+  {Cesarini}, {Ciupik}, {Collins-Hughes}, {Connolly}, {Cui}, {Dickherber},
+  {Duke}, {Errando}, {Falcone}, {Finley}, {Finnegan}, {Fortson}, {Furniss},
+  {Galante}, {Gall}, {Gillanders}, {Godambe}, {Griffin}, {Grube}, {Guenette},
+  {Gyuk}, {Hanna}, {Holder}, {Hughes}, {Hui}, {Humensky}, {Kaaret}, {Karlsson},
+  {Kertzman}, {Kieda}, {Krawczynski}, {Krennrich}, {Lang}, {LeBohec}, {Maier},
+  {Majumdar}, {McArthur}, {McCann}, {Moriarty}, {Mukherjee}, {Ong}, {Orr},
+  {Otte}, {Park}, {Perkins}, {Pohl}, {Prokoph}, {Quinn}, {Ragan}, {Reyes},
+  {Reynolds}, {Roache}, {Rose}, {Ruppel}, {Saxon}, {Schroedter}, {Sembroski},
+  {Senturk}, {Smith}, {Staszak}, {Te{\v s}i{\'c}}, {Theiling}, {Thibadeau},
+  {Tsurusaki}, {Varlotta}, {Vassiliev}, {Vincent}, {Vivier}, {Wakely}, {Ward},
+  {Weekes}, {Weinstein}, {Weisgarber}, {Williams}, \&
+  {Zitzer}}]{2011ApJ...738....3A}
+{Acciari}, V.~A., {Aliu}, E., {Arlen}, T., {et~al.} 2011, \apj, 738, 3
+
+\bibitem[{Albert {et~al.}(2006)}]{Albert2006}
+Albert, J., {et~al.} 2006, Science, 312, 1771
+
+\bibitem[{{Aliu} {et~al.}(2013){Aliu}, {Archambault}, {Behera}, {Berger},
+  {Beilicke}, {Benbow}, {Bird}, {Bouvier}, {Bugaev}, {Cerruti}, {Chen},
+  {Ciupik}, {Connolly}, {Cui}, {Dumm}, {Falcone}, {Federici}, {Feng}, {Finley},
+  {Fortin}, {Fortson}, {Furniss}, {Galante}, {Gillanders}, {Griffin},
+  {Griffiths}, {Grube}, {Gyuk}, {Hanna}, {Holder}, {Hughes}, {Humensky},
+  {Kaaret}, {Kertzman}, {Khassen}, {Kieda}, {Krennrich}, {Lang}, {Maier},
+  {Majumdar}, {McArthur}, {McCann}, {Moriarty}, {Mukherjee}, {O'Faol{\'a}in de
+  Bhr{\'o}ithe}, {Ong}, {Otte}, {Park}, {Perkins}, {Pohl}, {Popkow}, {Prokoph},
+  {Quinn}, {Ragan}, {Rajotte}, {Ratliff}, {Reynolds}, {Richards}, {Roache},
+  {Sembroski}, {Sheidaei}, {Skole}, {Smith}, {Staszak}, {Telezhinsky}, {Tyler},
+  {Varlotta}, {Vincent}, {Wakely}, {Weekes}, {Weinstein}, {Welsing}, {Zajczyk},
+  \& {Zitzer}}]{2013ApJ...779...88A}
+{Aliu}, E., {Archambault}, S., {Behera}, B., {et~al.} 2013, \apj, 779, 88
+
+\bibitem[{Aragona {et~al.}(2009)}]{Aragona2009}
+Aragona, C., {et~al.} 2009, ApJ, 698, 514
+
+\bibitem[{Casares {et~al.}(2005)}]{Casares2005}
+Casares, J., {et~al.} 2005, MNRAS, 360, 1105
+
+\bibitem[{Esposito {et~al.}(2007)Esposito, Caraveo, Pellizzoni, Luca, Gehrels,
+  \& Marelli}]{Esposito2007}
+Esposito, P., Caraveo, P.~A., Pellizzoni, A., {et~al.} 2007, A$\&$A, 474, 575
+
+\bibitem[{Hutchings \& Crampton(1981)}]{HandC1981}
+Hutchings, J., \& Crampton, D. 1981, PASP, 93, 486
+
+\bibitem[{Li {et~al.}(2012)}]{LiXray}
+Li, J., {et~al.} 2012, ApJ, 744, L13
+
+\bibitem[{{Massi} {et~al.}(2015){Massi}, {Jaron}, \&
+  {Hovatta}}]{2015A&A...575L...9M}
+{Massi}, M., {Jaron}, F., \& {Hovatta}, T. 2015, \aap, 575, L9
+
+\end{thebibliography}
