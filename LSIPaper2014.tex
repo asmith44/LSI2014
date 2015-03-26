@@ -28,7 +28,7 @@
 
 \newcommand{\vdag}{(v)^\dagger}
 \newcommand{\myemail}{}
-\newcommand{\pflux}{photons cm$^{-2}$ s$^{-1}$}
+\newcommand{\pflux}{~photons cm$^{-2}$ s$^{-1}$}
 \newcommand{\lsi}{LS~I~+61$^{\circ}$~303}
 \newcommand{\gev}{\,GeV}
 \newcommand{\tev}{\,TeV}
@@ -100,7 +100,7 @@ The current generation of Imaging Atmospheric Cherenkov Telescopes (IACTs) has o
 
 The orbital periods of these objects vary from several days (LS 5039) to several years (PSR B129-63), and as a result, the various sources may only present short windows during which they can be studied in the TeV regime. Of the TeV binaries, \lsi{} is the only known source in the Northern Hemisphere which has a short enough orbital period (26.5 days) to allow for regular study with TeV instruments. This has made it an excellent target for Northern Hemisphere TeV observatories. 
 
-\lsi{}, located at a distance of $\sim2$ kpc, is composed of a B0 Ve star and a compact object \citep{HandC1981, Casares2005}. The observed radio through TeV emission is variable and modulated with a period of $P \approx 26.5$ days, believed to be associated with the orbital structure of the binary system \citep{Albert2006, Esposito2007, VERITASLSIDetection, Abdo2009, LiXray, 2015A&A...575L...9M}. Radial velocity measurements show the orbit to be elliptical ($e = 0.537\pm0.034$), with periastron passage occurring around phase $\phi=0.275$, apastron passage at $\phi=0.775$, superior conjunction at $\phi=0.081$ and inferior conjunction at $\phi=0.313$ \citep{Aragona2009}.
+\lsi{}, located at a distance of $\sim2$ kpc, is composed of a B0 Ve star and a compact object \citep{HandC1981, Casares2005}. The observed radio through TeV emission is variable and modulated with a period of $P \approx 26.5$ days, believed to be associated with the orbital structure of the binary system \citep{Albert2006, Esposito2007, VERITASLSIDetection, Abdo2009, LiXray, 2015A&A...575L...9M}. Radial velocity measurements show the orbit to be elliptical ($e = 0.537\pm0.034$), with periastron passage occurring around phase $\phi=0.275$, apastron passage at $\phi=0.775$, superior conjunction at $\phi=0.081$ and inferior conjunction at $\phi=0.313$ \citep{Aragona2009}. However, the inclination of the system is not exactly known, leading to some uncertainty of the orbital parameters.
 
 As a TeV source, \lsi{} has presented puzzling behavior. Initial detections in 2006\,--\,2007 by both the MAGIC \citep{Albert2006} and VERITAS \citep{VERITASLSIDetection} collaborations over many orbital cycles showed the source to be a variably bright TeV source, with emission peaking around apastron passage. Subsequent observations in 2008\,--\,2010 \citep{2011ApJ...738....3A} showed no evidence for emission during these previously detected phases, instead only detecting the source at a lower TeV flux near the periastron passage of a single orbit. 
 
@@ -109,7 +109,7 @@ However, VERITAS observations taken in Nov\,--\,Dec 2011 showed the source to be
 \section{Observations}
 The VERITAS IACT array, located at the base of Mt. Hopkins, AZ (1.3 km a.s.l., 31$^{\circ}$40'\,N, 110$^{\circ}$57'\,W) consists of four 12\,m diameter Davies-Cotton design optical telescopes. VERITAS is sensitive from 85\gev{} to 30\tev{}, and has the ability to detect a 1\,\% Crab Nebula source in approximately 25 hours\footnote{\url{http://veritas.sao.arizona.edu/about-veritas-mainmenu-81/veritas-specifications-mainmenu-111}}. For a full description of the hardware components and analysis methods utilized by VERITAS, see \citet{VERITAS, KiedaVTSUpgrade, VERITASLSIDetection}, and references therein.
 
-In the 2014 season, VERITAS observations of \lsi{} were taken from October 16 (MJD 56946) to  December 12 (MJD 57003), obtaining a total of 24.7 hours of quality selected livetime observations. These observations covered three separate orbits of \lsi{}, sampling the orbital regions of $\phi = 0.5-0.2$ (see Figure~\ref{f:fig1}). For the entire observation set, a total of 449 excess events above background were detected, equivalent to significance of 21$\sigma$.
+In the 2014 season, VERITAS observations of \lsi{} were taken from October 16 (MJD 56946) to  December 12 (MJD 57003), obtaining a total of 24.7 hours of quality selected livetime. These observations covered three separate orbital periods of \lsi{}, sampling the orbital regions of $\phi = 0.5-0.2$ (see Figure~\ref{f:fig1}). Over the entire set of observations, a total of 449 excess events above background were detected, equivalent to a significance of $21\sigma$ calculated using Equation 17 of \citet{LiMa}.
 
 \begin{figure}[ht]
 \centering
@@ -123,15 +123,15 @@ In the 2014 season, VERITAS observations of \lsi{} were taken from October 16 (M
   %\caption{The VERITAS $>$350 GeV light curve of \lsi{} during the 2014 observation season (\textbf{ED}).}
   %\label{fig1b}
 }
-\caption{The VERITAS $>$350 GeV light curve of \lsi{} during the 2014 observation season from \textbf{VEGAS}~\subref{fig1} and \textbf{ED}~\subref{fig1b}.}
+\caption{Light curve of \lsi{} during the 2014 observation season from \textbf{VEGAS}~\subref{fig1} and \textbf{ED}~\subref{fig1b}. \textbf{Describe both x-axes and the UL criteria.}}
 \label{f:fig1}
 \end{figure}
 
-During the first orbit observed (in October), the source presented the largest of its flares (hereafter "F1"), beginning on 17 October 2014 (MJD 56947, $\phi =  0.55$) with emission reaching a peak of $3.0 \pm 0.3 \times10^{-11}$ \pflux{} ($>$350 GeV) on October 18 (MJD 56948). This flare peaked at approximately $30\%$ of the Crab Nebula flux in the same energy range and represents the largest flux ever detected from the source. Unfortunately, poor weather conditions limited observations for the next few nights after this peak and only recommenced on October 20 (MJD 56950), when the source had already quietened down. As can be seen in Figure 1, this flare is rather sharply defined: only one night before the flare began, the source was in a quescient state with a $99\%$ confidence upper limit of emission of $1.4 \times10^{-11}$ \pflux{} ($>$350 GeV). This short variability fast confirms the result of \citep{2013ApJ...779...88A}.
+During the first orbit observed (in October), the source presented the largest of its flares (hereafter ``F1''), beginning on 17 October 2014 (MJD 56947, $\phi = 0.55$) with emission reaching a peak of $3.0 \pm 0.3 \times10^{-11}$\pflux{} ($>$350 GeV) on October 18 (MJD 56948). This flare peaked at approximately $30\%$ of the Crab Nebula flux in the same energy range, representing the largest flux ever detected from the source. Unfortunately, observations were limited by poor weather conditions for two nights following this peak and only recommenced on October 20 (MJD 56950), by which time the source had already quietened down. As can be seen in Figure~\ref{f:fig1}, this flare is rather sharply defined: only one night before the flare began, the source was in a quescient state with a $99\%$ confidence upper limit of emission of $1.4 \times10^{-11}$\pflux{} ($>$350 GeV). \textbf{This short variability fast confirms the result of \citep{2013ApJ...779...88A}.}
 
-During the November observation (second orbital passage), VERITAS detected another period of high activity for the source at similar orbital phases ($\phi = 0.5-0.6$) with similar flux levels detected. Additionally, during this orbit, VERITAS detected emission from the source during off-apastron passage phases of 0.1. This result confirms the initial detection of off-apastron emission presented in \citep{2011ApJ...738....3A}. Follow-up observations conducted by VERITAS during the next month (December 10-12, 2014) covered the orbital phases of $\phi=0.59-0.67$ and detected the source at a lower flux level of $\sim1.7\times10^{-11}$ \pflux{} ($>$350 GeV).
+During the November observation (second orbital passage), VERITAS detected another period of high activity for the source at similar orbital phases ($\phi = 0.5-0.6$) with similar flux levels detected. Additionally, during this orbit, VERITAS detected emission from the source during off-apastron passage phases of 0.1. \textbf{This result confirms the initial detection of off-apastron emission presented in \citep{2011ApJ...738....3A}.} Follow-up observations conducted by VERITAS during the next month (2014 December 10\,--\,12) covered the orbital phases of $\phi=0.59-0.67$ and detected the source at a lower flux level of $\sim1.7\times10^{-11}$\pflux{} ($>$350 GeV).
 
-During the 2014 observing season, the differential energy spectrum of \lsi{} was consistent with past observations, i.e., the emission in the 0.2-25 TeV is well fit by a power-law described by $\left( 1.92 \pm 0.12_{\mathrm{stat}} \times 10^{-8} \right) \times \left( \frac{E}{\mathrm{1 TeV}} \right)^{-2.56 \pm 0.08_{\mathrm{stat}}}$ TeV$^{-1}$ m$^{-2}$ s$^{-1}$, see Figure~\ref{spec}.
+During the 2014 observing season, the differential energy spectrum of \lsi{} was consistent with past observations, i.e., the emission in the $0.2-25$\tev{} is well fit by a power-law described by $\left( 1.92 \pm 0.12_{\mathrm{stat}} \times 10^{-8} \right) \times \left( \frac{E}{\mathrm{1 TeV}} \right)^{-2.56 \pm 0.08_{\mathrm{stat}}}$ TeV$^{-1}$ m$^{-2}$ s$^{-1}$, see Figure~\ref{spec}.
 
 \begin{figure}
 \centering
@@ -140,8 +140,7 @@ During the 2014 observing season, the differential energy spectrum of \lsi{} was
 \label{spec}
 \end{figure}
 
-During these observations, the source was also being monitored by \emph{Fermi}-LAT ($0.1\,--\,300$ GeV), \emph{Swift}-XRT ($0.2\,--\,10$ keV), and both the RATAN and AMI radio instruments (4/6-15 Ghz). In addition, H-alpha monitoring of the system was taking place with the Ritter Observatory in Toledo, Ohio (USA). After the second flare (November) was detected by VERITAS, Atel $\#$6785 was released, notifying the astronomical community of the historic flux levels which triggered more intense observations with the existing multiwavelength partners, as well as additional observations with the MAGIC TeV observatory. The results of this campaign are under analysis and will be presented in an upcoming publication. 
-
+During these observations, the source was also being monitored by \emph{Fermi}-LAT (0.1\,--\,300 GeV), \emph{Swift}-XRT (0.2\,--\,10 keV), and both the RATAN and AMI radio instruments (4/6\,--\,15 Ghz). In addition, H-alpha monitoring of the system was taking place with the Ritter Observatory in Toledo, Ohio (USA). After the second flare (November) was detected by VERITAS, Atel $\#$6785 \textbf{ref} was released, notifying the astronomical community of the historic flux levels and triggering more intense observations with the existing multiwavelength partners, as well as additional observations with the MAGIC TeV observatory. The results of this campaign are under analysis and will be presented in an upcoming publication. 
 
 \section{Discussion and Interpretation}
 
