@@ -50,8 +50,16 @@ Casares, J., {et~al.} 2005, MNRAS, 360, 1105
   \& Marelli}]{Esposito2007}
 Esposito, P., Caraveo, P.~A., Pellizzoni, A., {et~al.} 2007, A$\&$A, 474, 575
 
+\bibitem[{Holder {et~al.}(2008)}]{VERITAS}
+Holder, J., {et~al.} 2008, American Institute of Physics Conference Series,
+  1085, 657
+
 \bibitem[{Hutchings \& Crampton(1981)}]{HandC1981}
 Hutchings, J., \& Crampton, D. 1981, PASP, 93, 486
+
+\bibitem[{{Kieda, D., for the VERITAS Collaboration}(2013)}]{KiedaVTSUpgrade}
+{Kieda, D., for the VERITAS Collaboration}. 2013, in Proceedings of the 33rd
+  International Cosmic Ray Conference (ICRC2013)
 
 \bibitem[{Li {et~al.}(2012)}]{LiXray}
 Li, J., {et~al.} 2012, ApJ, 744, L13
