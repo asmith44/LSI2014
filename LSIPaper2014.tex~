@@ -135,7 +135,7 @@ During the November observation (second orbital passage), VERITAS detected anoth
 
 During the 2014 observing season, the differential energy spectrum of \lsi{} was consistent with past observations, i.e., the emission in the $0.2-25$\tev{} range is well fit by a power-law described by $\left( 1.70 \pm 0.69_{\mathrm{stat}} \right) \times 10^{-12} \cdot \left( \frac{E}{\mathrm{1 TeV}} \right)^{-2.35 \pm 0.32_{\mathrm{stat}}}$ cm$^{-2}$ s$^{-1}$ TeV$^{-1}$, as can be seen in Figure~\ref{spec}.
 
-\begin{figure}[ht]
+\begin{figure}
 \centering
 \includegraphics[width=0.5\textwidth]{figs/vegasspec.pdf}
 \caption{Average differential energy spectrum of \lsi{}.}
@@ -146,42 +146,7 @@ During these observations, the source was also monitored by \emph{Fermi}-LAT (0.
 
 \section{Discussion and Interpretation}
 
-Following number calculated from ED analysis - need numbers from VEGAS for the final version!
-\begin{itemize}
-  \item The VHE light curve is inconsistent with a constant flux at $14.6\,\sigma$
-  \item Orbit 1 is inconsistent with a constant flux at $8.3\,\sigma$
-  \item Orbit 2 is inconsistent with a constant flux at $8.4\,\sigma$
-%  \item When folded with the orbital period of 26.5 days found at other wavelengths, the VHE light curves shows modulation significant at ??$\sigma$
-  \item No evidence for intra-night variability
-    \begin{itemize}
-      \item Peak night of F1 fit with constant flux model, $\chi^2/\mbox{\textit {NDF}} = 8.186/2$, $P = 0.01669$, $\rightarrow$ inconsistent with model at $2.4\,\sigma$
-      \item Peak night of F2 fit with constant flux model, $\chi^2/\mbox{\textit {NDF}} = 7.539/4$, $P = 0.11$, $\rightarrow$ inconsistent with model at $1.6\,\sigma$
-      \item $\Rightarrow$ accept model for both cases
-    \end{itemize}
-  \item Orbit 1 and 2 (in daily bins, as now we know there is not intra-night variability) fit with a constant + a Gaussian to accommodate a flare superimposed on a base line flux
-  \begin{itemize}
-    \item Orbit 1: Fixed mean of Gaussian to 56947.8 (highest measured flux point), as the fit did not converge otherwise. Obtained $\chi^2/\mbox{\textit {NDF}} = 16.97/8$, $P = 0.03046$, with a $\mbox{\textit{FWHM}} = 0.665 \pm 0.0987$ for a rise and fall time of $\sim2$ days.
-    \item Orbit 2: All parameters remained free, mean of Gaussian naturally converged to highest measured flux point. Obtained $\chi^2/\mbox{\textit {NDF}} = 6.298/8$, $P = 0.6139$, with a $\mbox{\textit{FWHM}} = 0.853 \pm 0.112$ for a rise and fall time of $\sim2.5$ days.
-  \end{itemize}
-  \item Shortest significant flux variability timescale is 1.8 days, at $7.15\,\sigma$ (between 1st and 3rd night of F1)
-  \begin{itemize}
-    \item 1-day variability at $3.56\,\sigma$ (this is max sigma for 1-day var, measured between 1st and 2nd night of F1)
-  \end{itemize}
-  \item Average ED spectrum: \\$8.6 \times 10^{-12} \left( \frac{E}{1\,\mbox{\scriptsize{TeV}}} \right)^{-2.24 \pm 0.19}$
-  \item ED spectrum on peak night of F1: \\$7.1 \times 10^{-12} \left( \frac{E}{1\,\mbox{\scriptsize{TeV}}} \right)^{-2.41 \pm 0.17}$
-  \item ED spectrum on peak night of F2: \\$1.9 \times 10^{-12} \left( \frac{E}{1\,\mbox{\scriptsize{TeV}}} \right)^{-2.56 \pm 0.08}$
-  \item $\Rightarrow$ some evidence for spectral hardening during high flux - also seen with VEGAS?
-  \item The highest energy photon is $\sim10$\,TeV
-    \begin{itemize}
-      \item Look at model from Khangulyan et al. (LS 5039) 2008
-      \item Scattering is in deep KN regime where $\sim100\%$ of the electron energy is transferred to the photon $\Rightarrow$ have at least 10 TeV electron accelerated in system
-      \item B-field comes out at $\sim1$\,G
-      \item Acceleration time is $\sim10\eta$\,s, which is a few hundred seconds
-      \item This is much less than our measured minimum var time, which is dominated by the data sampling
-      \end{itemize}
-  \item Optical depth?
-  \item Could short-term var be due to sudden changes in transparency?
-\end{itemize}
+
 
 
 \bibliography{refs}

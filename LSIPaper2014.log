@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.6.28)  30 MAR 2015 18:13
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.6.29)  30 APR 2015 15:15
 entering extended mode
  %&-line parsing enabled.
 **LSIPaper2014.tex
@@ -191,29 +191,40 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 140--141
  [][] 
  []
 
-(./LSIPaper2014.bbl) [3] [4
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 151.
 
- <./figs/vegasspec.pdf, page is rotated 90 degrees>] (./LSIPaper2014.aux) ) 
+(/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 151.
+
+Underfull \hbox (badness 1874) in paragraph at lines 164--165
+[]\OT1/cmr/m/n/10 Orbit 2: All pa-ram-e-ters re-mained
+ []
+
+[3 <./figs/vegasspec.pdf, page is rotated 90 degrees>] (./LSIPaper2014.bbl)
+[4] (./LSIPaper2014.aux) ) 
 Here is how much of TeX's memory you used:
- 1934 strings out of 256216
- 22070 string characters out of 1917072
- 76118 words of memory out of 1500000
- 5212 multiletter control sequences out of 10000+200000
+ 1951 strings out of 256216
+ 22336 string characters out of 1917072
+ 76126 words of memory out of 1500000
+ 5226 multiletter control sequences out of 10000+200000
  14192 words of font info for 59 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 32i,6n,26p,1274b,220s stack positions out of 5000i,500n,6000p,200000b,15000s
-</us
-r/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/b
-luesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/
-share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/blu
-esky/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/shar
-e/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf/fonts/type1/bluesky/
-cm/cmr5.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf
-/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr8.
-pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts
-/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb
-></usr/share/texmf/fonts/type1/bluesky/cm/cmti9.pfb>
-Output written on LSIPaper2014.pdf (4 pages, 128078 bytes).
+ 32i,6n,26p,1274b,225s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb><
+/usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf/fonts/type
+1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi10.pfb></u
+sr/share/texmf/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/b
+luesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12.pfb></usr/sh
+are/texmf/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf/fonts/type1/bluesky
+/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texm
+f/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy
+10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf/fon
+ts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti9.p
+fb>
+Output written on LSIPaper2014.pdf (4 pages, 134319 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
