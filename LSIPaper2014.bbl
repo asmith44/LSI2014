@@ -4,27 +4,76 @@
 \bibitem[{Abdo {et~al.}(2009)}]{Abdo2009}
 Abdo, A., {et~al.} 2009, ApJ, 701, L123
 
+\bibitem[{{Abramowski} {et~al.}(2015){Abramowski}, {Aharonian}, {Ait Benkhali},
+  {Akhperjanian}, {Ang{\"u}ner}, {Backes}, {Balzer}, {Becherini}, \&
+  et~al.}]{2015arXiv150302711H}
+{Abramowski}, A., {Aharonian}, F., {Ait Benkhali}, F., {et~al.} 2015, ArXiv
+  e-prints, arXiv:1503.02711
+
 \bibitem[{Acciari {et~al.}(2008)}]{VERITASLSIDetection}
 Acciari, V., {et~al.} 2008, ApJ, 679, 1427
 
-\bibitem[{{Acciari} {et~al.}(2011){Acciari}, {Aliu}, {Arlen}, {Aune},
-  {Beilicke}, {Benbow}, {Bradbury}, {Buckley}, {Bugaev}, {Byrum}, {Cannon},
-  {Cesarini}, {Ciupik}, {Collins-Hughes}, {Connolly}, {Cui}, {Dickherber},
-  {Duke}, {Errando}, {Falcone}, {Finley}, {Finnegan}, {Fortson}, {Furniss},
-  {Galante}, {Gall}, {Gillanders}, {Godambe}, {Griffin}, {Grube}, {Guenette},
-  {Gyuk}, {Hanna}, {Holder}, {Hughes}, {Hui}, {Humensky}, {Kaaret}, {Karlsson},
-  {Kertzman}, {Kieda}, {Krawczynski}, {Krennrich}, {Lang}, {LeBohec}, {Maier},
-  {Majumdar}, {McArthur}, {McCann}, {Moriarty}, {Mukherjee}, {Ong}, {Orr},
-  {Otte}, {Park}, {Perkins}, {Pohl}, {Prokoph}, {Quinn}, {Ragan}, {Reyes},
-  {Reynolds}, {Roache}, {Rose}, {Ruppel}, {Saxon}, {Schroedter}, {Sembroski},
-  {Senturk}, {Smith}, {Staszak}, {Te{\v s}i{\'c}}, {Theiling}, {Thibadeau},
-  {Tsurusaki}, {Varlotta}, {Vassiliev}, {Vincent}, {Vivier}, {Wakely}, {Ward},
-  {Weekes}, {Weinstein}, {Weisgarber}, {Williams}, \&
-  {Zitzer}}]{2011ApJ...738....3A}
-{Acciari}, V.~A., {Aliu}, E., {Arlen}, T., {et~al.} 2011, \apj, 738, 3
+\bibitem[{{Acciari} {et~al.}(2009){Acciari}, {Aliu}, {Arlen}, {Beilicke},
+  {Benbow}, {Boltuch}, {Bradbury}, {Buckley}, {Bugaev}, {Byrum}, {Cannon},
+  {Cesarini}, {Cesarini}, {Chow}, {Ciupik}, {Cogan}, {Dickherber}, {Duke},
+  {Ergin}, {Falcone}, {Fegan}, {Finley}, {Finnegan}, {Fortin}, {Fortson},
+  {Furniss}, {Gibbs}, {Gillanders}, {Grube}, {Guenette}, {Gyuk}, {Hanna},
+  {Holder}, {Horan}, {Hui}, {Humensky}, {Imran}, {Kaaret}, {Karlsson},
+  {Kertzman}, {Kieda}, {Kildea}, {Konopelko}, {Krawczynski}, {Krennrich},
+  {Lang}, {LeBohec}, {LeBohec}, {Maier}, {McCann}, {McCutcheon}, {Millis},
+  {Millis}, {Moriarty}, {Mukherjee}, {Ong}, {Otte}, {Pandel}, {Perkins},
+  {Petry}, {Pohl}, {Quinn}, {Ragan}, {Reyes}, {Reynolds}, {Rose}, {Schroedter},
+  {Sembroski}, {Smith}, {Steele}, {Swordy}, {Theiling}, {Toner}, {Varlotta},
+  {Vassiliev}, {Vincent}, {Wagner}, {Wakely}, {Ward}, {Weekes}, {Weinstein},
+  {Weisgarber}, {Williams}, {Wissel}, \& {Wood}}]{2009ApJ...698L..94A}
+{Acciari}, V.~A., {Aliu}, E., {Arlen}, T., {et~al.} 2009, \apjl, 698, L94
+
+\bibitem[{{Aharonian} {et~al.}(2005{\natexlab{a}}){Aharonian}, {Akhperjanian},
+  {Aye}, {Bazer-Bachi}, {Beilicke}, {Benbow}, {Berge}, {Berghaus},
+  {Bernl{\"o}hr}, {Boisson}, {Bolz}, {Braun}, {Breitling}, {Brown}, {Bussons
+  Gordo}, {Chadwick}, {Chounet}, {Cornils}, {Costamante}, {Degrange},
+  {Djannati-Ata{\"i}}, {O'C.~Drury}, {Dubus}, {Emmanoulopoulos}, {Espigat},
+  {Feinstein}, {Fleury}, {Fontaine}, {Fuchs}, {Funk}, {Gallant}, {Giebels},
+  {Gillessen}, {Glicenstein}, {Goret}, {Hadjichristidis}, {Hauser},
+  {Heinzelmann}, {Henri}, {Hermann}, {Hinton}, {Hofmann}, {Holleran}, {Horns},
+  {de Jager}, {Johnston}, {Kh{\'e}lifi}, {Kirk}, {Komin}, {Konopelko},
+  {Latham}, {Le Gallou}, {Lemi{\`e}re}, {Lemoine-Goumard}, {Leroy},
+  {Martineau-Huynh}, {Lohse}, {Marcowith}, {Masterson}, {McComb}, {de Naurois},
+  {Nolan}, {Noutsos}, {Orford}, {Osborne}, {Ouchrif}, {Panter}, {Pelletier},
+  {Pita}, {P{\"u}hlhofer}, {Punch}, {Raubenheimer}, {Raue}, {Raux}, {Rayner},
+  {Redondo}, {Reimer}, {Reimer}, {Ripken}, {Rob}, {Rolland}, {Rowell},
+  {Sahakian}, {Saug{\'e}}, {Schlenker}, {Schlickeiser}, {Schuster}, {Schwanke},
+  {Siewert}, {Skj{\ae}raasen}, {Sol}, {Steenkamp}, {Stegmann}, {Tavernet},
+  {Terrier}, {Th{\'e}oret}, {Tluczykont}, {Vasileiadis}, {Venter}, {Vincent},
+  {V{\"o}lk}, \& {Wagner}}]{2005A&A...442....1A}
+{Aharonian}, F., {Akhperjanian}, A.~G., {Aye}, K.-M., {et~al.}
+  2005{\natexlab{a}}, \aap, 442, 1
+
+\bibitem[{{Aharonian} {et~al.}(2005{\natexlab{b}}){Aharonian}, {Akhperjanian},
+  {Aye}, {Bazer-Bachi}, {Beilicke}, {Benbow}, {Berge}, {Berghaus},
+  {Bernl{\"o}hr}, {Boisson}, {Bolz}, {Borrel}, {Braun}, {Breitling}, {Brown},
+  {Gordo}, {Chadwick}, {Chounet}, {Cornils}, {Costamante}, {Degrange},
+  {Dickinson}, {Djannati-Ata{\"i}}, {Drury}, {Dubus}, {Emmanoulopoulos},
+  {Espigat}, {Feinstein}, {Fleury}, {Fontaine}, {Fuchs}, {Funk}, {Gallant},
+  {Giebels}, {Gillessen}, {Glicenstein}, {Goret}, {Hadjichristidis}, {Hauser},
+  {Heinzelmann}, {Henri}, {Hermann}, {Hinton}, {Hofmann}, {Holleran}, {Horns},
+  {Jacholkowska}, {de Jager}, {Kh{\'e}lifi}, {Komin}, {Konopelko}, {Latham},
+  {Le Gallou}, {Lemi{\`e}re}, {Lemoine-Goumard}, {Leroy}, {Lohse}, {Marcowith},
+  {Martin}, {Martineau-Huynh}, {Masterson}, {McComb}, {de Naurois}, {Nolan},
+  {Noutsos}, {Orford}, {Osborne}, {Ouchrif}, {Panter}, {Pelletier}, {Pita},
+  {P{\"u}hlhofer}, {Punch}, {Raubenheimer}, {Raue}, {Raux}, {Rayner}, {Reimer},
+  {Reimer}, {Ripken}, {Rob}, {Rolland}, {Rowell}, {Sahakian}, {Saug{\'e}},
+  {Schlenker}, {Schlickeiser}, {Schuster}, {Schwanke}, {Siewert}, {Sol},
+  {Spangler}, {Steenkamp}, {Stegmann}, {Tavernet}, {Terrier}, {Th{\'e}oret},
+  {Tluczykont}, {Vasileiadis}, {Venter}, {Vincent}, {V{\"o}lk}, \&
+  {Wagner}}]{2005Sci...309..746A}
+---. 2005{\natexlab{b}}, Science, 309, 746
 
 \bibitem[{Albert {et~al.}(2006)}]{Albert2006}
 Albert, J., {et~al.} 2006, Science, 312, 1771
+
+\bibitem[{Aleksic {et~al.}(2012)}]{Aleksic}
+Aleksic, J., {et~al.} 2012, ApJ, 746, 80
 
 \bibitem[{{Aliu} {et~al.}(2013){Aliu}, {Archambault}, {Behera}, {Berger},
   {Beilicke}, {Benbow}, {Bird}, {Bouvier}, {Bugaev}, {Cerruti}, {Chen},
@@ -46,9 +95,19 @@ Aragona, C., {et~al.} 2009, ApJ, 698, 514
 \bibitem[{Casares {et~al.}(2005)}]{Casares2005}
 Casares, J., {et~al.} 2005, MNRAS, 360, 1105
 
+\bibitem[{Dhawan {et~al.}(2006)}]{Dhawan2006}
+Dhawan, V., {et~al.} 2006, in Proc. of Microquasars and Beyond:From Binaries to
+  Galaxies, in Proceedings of Science, Como, IT, ed. T. Belloni, p.52
+
+\bibitem[{{Dubus}(2013)}]{2013A&ARv..21...64D}
+{Dubus}, G. 2013, \aapr, 21, 64
+
 \bibitem[{Esposito {et~al.}(2007)Esposito, Caraveo, Pellizzoni, Luca, Gehrels,
   \& Marelli}]{Esposito2007}
 Esposito, P., Caraveo, P.~A., Pellizzoni, A., {et~al.} 2007, A$\&$A, 474, 575
+
+\bibitem[{{Holder}(2015)}]{2015VTSATEL}
+{Holder}, J. 2015, The Astronomer's Telegram, 6785
 
 \bibitem[{Holder {et~al.}(2008)}]{VERITAS}
 Holder, J., {et~al.} 2008, American Institute of Physics Conference Series,
@@ -56,6 +115,10 @@ Holder, J., {et~al.} 2008, American Institute of Physics Conference Series,
 
 \bibitem[{Hutchings \& Crampton(1981)}]{HandC1981}
 Hutchings, J., \& Crampton, D. 1981, PASP, 93, 486
+
+\bibitem[{{Khangulyan} {et~al.}(2008){Khangulyan}, {Aharonian}, \&
+  {Bosch-Ramon}}]{2008MNRAS.383..467K}
+{Khangulyan}, D., {Aharonian}, F., \& {Bosch-Ramon}, V. 2008, \mnras, 383, 467
 
 \bibitem[{{Kieda, D., for the VERITAS Collaboration}(2013)}]{KiedaVTSUpgrade}
 {Kieda, D., for the VERITAS Collaboration}. 2013, in Proceedings of the 33rd
@@ -67,8 +130,19 @@ Li, J., {et~al.} 2012, ApJ, 744, L13
 \bibitem[{Li \& Ma(1983)}]{LiMa}
 Li, T.-P., \& Ma, Y.-Q. 1983, The Astrophysical Journal, 272, 317
 
+\bibitem[{{Massi} \& {Jaron}(2013)}]{Massi2013}
+{Massi}, M., \& {Jaron}, F. 2013, A\&A, 554, A105
+
 \bibitem[{{Massi} {et~al.}(2015){Massi}, {Jaron}, \&
   {Hovatta}}]{2015A&A...575L...9M}
 {Massi}, M., {Jaron}, F., \& {Hovatta}, T. 2015, \aap, 575, L9
+
+\bibitem[{Massi {et~al.}(2001)}]{Massi2001}
+Massi, M., {et~al.} 2001, A\&A, 376, 217
+
+\bibitem[{{Paredes-Fortuny, X.} {et~al.}(2015){Paredes-Fortuny, X.},
+  {Bosch-Ramon, V.}, {Perucho, M.}, \& {Ribó, M.}}]{Paredes-Fortuny2014}
+{Paredes-Fortuny, X.}, {Bosch-Ramon, V.}, {Perucho, M.}, \& {Ribó, M.} 2015,
+  A\&A, 574, A77
 
 \end{thebibliography}
