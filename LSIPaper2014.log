@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.6.29)  11 MAY 2015 16:02
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.6.28)  18 MAY 2015 18:52
 entering extended mode
  %&-line parsing enabled.
 **LSIPaper2014.tex
@@ -243,24 +243,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 [][]\OT1/cmr/m/n/8 http://veritas.sao.arizona.edu/about-veritas-mainmenu-
  []
 
-<./figs/fluxvphase.pdf, id=17, 569.12625pt x 385.44pt>
-File: ./figs/fluxvphase.pdf Graphic file (type pdf)
+<./figs/fluxvphase_300.pdf, id=17, 569.12625pt x 385.44pt>
+File: ./figs/fluxvphase_300.pdf Graphic file (type pdf)
 
-<use ./figs/fluxvphase.pdf>
+<use ./figs/fluxvphase_300.pdf>
 Overfull \hbox (18.06749pt too wide) in paragraph at lines 130--133
  [][] 
  []
 
-[2 <./figs/fluxvphase.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 2426) in paragraph at lines 145--146
-\OT1/cmr/m/n/10 10[] \OMS/cmsy/m/n/10 ^^A [][]$ \OT1/cmr/m/n/10 cm$[]$ s$[]$ Te
-V$[]$.
- []
+[2 <./figs/fluxvphase_300.pdf, page is rotated 90 degrees>]
+<figs/all_spectra_vegas.pdf, id=65, 569.12625pt x 545.03625pt>
+File: figs/all_spectra_vegas.pdf Graphic file (type pdf)
 
-<figs/all_spectra_ED.pdf, id=65, 569.32701pt x 489.83pt>
-File: figs/all_spectra_ED.pdf Graphic file (type pdf)
-
-<use figs/all_spectra_ED.pdf>
+<use figs/all_spectra_vegas.pdf>
 Overfull \hbox (18.06749pt too wide) in paragraph at lines 149--150
  [][] 
  []
@@ -270,38 +265,37 @@ Overfull \hbox (9.67645pt too wide) in paragraph at lines 157--158
 []\OT1/cmr/m/n/10 The na-ture of the com-pact ob-ject in LS I +61$[]$ 303
  []
 
-[3 <./figs/all_spectra_ED.pdf
-
-pdfTeX warning: pdflatex (file ./figs/all_spectra_ED.pdf): PDF inclusion: Page 
-Group detected which pdfTeX can't handle. Ignoring it.
->] (./LSIPaper2014.bbl
+[3 <./figs/all_spectra_vegas.pdf, page is rotated 90 degrees>]
+(./LSIPaper2014.bbl
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ³ in font cmr9!
-) [4] (./LSIPaper2014.aux) ) 
+) [4] [5
+
+] (./LSIPaper2014.aux) ) 
 Here is how much of TeX's memory you used:
  2407 strings out of 256216
- 29301 string characters out of 1917072
- 83864 words of memory out of 1500000
+ 29336 string characters out of 1917072
+ 83926 words of memory out of 1500000
  5669 multiletter control sequences out of 10000+200000
  15888 words of font info for 66 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  32i,6n,27p,1403b,242s stack positions out of 5000i,500n,6000p,200000b,15000s
- </afs/ifh.de/user/a/aofdeb/.texlive2007/texmf-var/
-fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texmf/fonts/type1/bluesk
-y/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share
-/texmf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/
-cm/cmmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/te
-xmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/c
-mr12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf/fo
-nts/type1/bluesky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb
-></usr/share/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type
-1/bluesky/cm/cmr9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr
-/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/blu
-esky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti9.pfb></usr/sha
-re/texmf/fonts/type1/bluesky/ams/msam10.pfb>
-Output written on LSIPaper2014.pdf (4 pages, 206586 bytes).
+ </afs/ifh.de/user/a/aofdeb/.texlive2007/texmf-var/font
+s/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texmf/fonts/type1/bluesky/cm
+/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/tex
+mf/fonts/type1/bluesky/cm/cmex10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/c
+mmi10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf/
+fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr12
+.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr5.pfb></usr/share/texmf/fonts/
+type1/bluesky/cm/cmr6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr7.pfb></u
+sr/share/texmf/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bl
+uesky/cm/cmr9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/sha
+re/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/bluesky
+/cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti9.pfb></usr/share/t
+exmf/fonts/type1/bluesky/ams/msam10.pfb>
+Output written on LSIPaper2014.pdf (5 pages, 156610 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
+ 181 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
