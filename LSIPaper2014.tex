@@ -113,7 +113,7 @@ In this work, we present the results of the VERITAS campaign on \lsi{} in the Fa
 \section{Observations}
 The VERITAS IACT array, located at the base of Mt.\ Hopkins, AZ (1.3 km a.s.l., 31$^{\circ}$40'\,N, 110$^{\circ}$57'\,W) consists of four 12\,m diameter Davies-Cotton design optical telescopes. VERITAS is sensitive from 85\gev{} to 30\tev{}, and has the ability to detect a 1\,\% Crab Nebula source in approximately 25 hours\footnote{\url{http://veritas.sao.arizona.edu/about-veritas-mainmenu-81/veritas-specifications-mainmenu-111}}. For a full description of the hardware components and analysis methods utilized by VERITAS, see \citet{VERITAS, KiedaVTSUpgrade, VERITASLSIDetection}, and references therein.
 
-In the 2014 season, VERITAS observations of \lsi{} were taken from October 16 (MJD 56946) to  December 12 (MJD 57003), obtaining a total of 24.7 hours of quality selected livetime. These observations covered three separate orbital periods of \lsi{}, sampling the orbital regions of $\phi = 0.5-0.2$ (see Figure~\ref{f:fig1}). Over the entire set of observations, a total of 449 excess events above background were detected, equivalent to a significance of $21\sigma$ calculated using Equation 17 of \citet{LiMa}.
+In the 2014 season, VERITAS observations of \lsi{} were taken from October 16 (MJD 56946) to  December 12 (MJD 57003), obtaining a total of 24.7 hours of quality selected livetime. These observations covered three separate orbital periods of \lsi{}, sampling the orbital regions of $\phi = 0.5-0.2$ (see Figure~\ref{f:fluxphase} and Table~\ref{t:fluxphase}). Over the entire set of observations, a total of 449 excess events above background were detected, equivalent to a significance of $21\sigma$ calculated using Equation 17 of \citet{LiMa}.
 
 \begin{figure}[ht]
 \centering
@@ -131,12 +131,49 @@ In the 2014 season, VERITAS observations of \lsi{} were taken from October 16 (M
 \caption{Light curve of \lsi{} during the 2014 observation season in nightly bins. %from \textbf{VEGAS}~\subref{fig1} and \textbf{ED}~\subref{fig1b}. 
 The data is shown in the different orbits observed, with the first orbit (October) shown with orange circles, the second orbit shown with purple diamonds, and the third orbit shown with blue squares. Flux upper limits at the 99\% confidence level are shown for points with $<3\,\sigma$ significance and are represented by arrows.
 }
-\label{f:fig1}
+\label{f:fluxphase}
 \end{figure}
+
+\begin{deluxetable}{rrr}
+\tablecolumns{3}
+\tablewidth{0pc}
+\tablecaption{VERITAS observations of \lsi{} in 2014}
+\tablehead{
+\colhead{Date observed [MJD]} & \colhead{Orbital phase ($\phi$)} & \colhead{Flux($>300$\gev{}) [$\times 10^{-11}$ cm$^{-2}$ s$^{-1}$]}}
+\startdata
+56946.3\phn & 0.52\phn & $<$0.15\phn\phn\phd\phn\phm{ }\phs\phm{ }\\  
+56947.3\phn & 0.55\phn & 2.32 $\pm$ 0.54  \\
+56948.3\phn & 0.60\phn & 3.20 $\pm$ 0.34 \\
+56950.0\phn & 0.67\phn & $<$0.47\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56951.0\phn & 0.71\phn & $<$0.64\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56952.0\phn & 0.75\phn & $<$0.55\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56954.0\phn & 0.82\phn & $<$0.28\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56956.0\phn & 0.90\phn & $<$0.86\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56958.0\phn & 0.97\phn & $<$0.38\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56960.0\phn & 0.05\phn & $<$0.46\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56962.0\phn & 0.12\phn & $<$0.96\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56973.0\phn & 0.54\phn & $<$0.53\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56974.0\phn & 0.58\phn & 1.30 $\pm$ 0.34 \\
+56975.0\phn & 0.61\phn & 2.02 $\pm$ 0.22 \\
+56976.0\phn & 0.65\phn & 1.55 $\pm$ 0.25 \\
+56977.0\phn & 0.69\phn & $<$0.94\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56979.0\phn & 0.76\phn & $<$0.85\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56981.0\phn & 0.84\phn & $<$0.53\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56982.0\phn & 0.88\phn & $<$1.02\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56983.0\phn & 0.92\phn & $<$0.58\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56985.0\phn & 0.99\phn & $<$0.82\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56987.0\phn & 0.06\phn & $<$0.69\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+56989.0\phn & 0.14\phn & $<$1.13\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+57001.0\phn & 0.59\phn & $<$0.66\phn\phn\phd\phn\phm{ }\phs\phm{ } \\
+57002.0\phn & 0.63\phn & 0.72 $\pm$ 0.12 \\
+57003.0\phn & 0.67\phn & 1.06 $\pm$ 0.20 \\
+\enddata
+\label{t:fluxphase}
+\end{deluxetable}
 
 During the first orbit observed (in October), the source presented the largest of its flares (hereafter ``F1''), beginning on 2014 October 17 (MJD 56947, $\phi = 0.55$) with emission reaching a peak of $31.9 \pm 3.4 \times10^{-12}$\pflux{} ($>$300\gev{}) on October 18 (MJD 56948). This flare peaked at approximately $30\%$ of the Crab Nebula flux in the same energy range, representing the largest flux ever detected from the source. Unfortunately, observations were limited by poor weather conditions for two nights following this peak and only recommenced on October 20 (MJD 56950), by which time the source had already quietened down. During the November observations (second orbital passage), VERITAS detected another period of high activity (``F2'') from the source at similar orbital phases ($\phi = 0.5-0.6$) with peak emission of $20.2 \pm 2.2 \times10^{-12}$\pflux{} ($>$300\gev{}) on November 14 (MJD 56975).
 
-The rise and fall times of the flares was determined by fitting a Gaussian on top of a constant baseline to the light curve of each orbit, and also by comparing the flux on the peak night of each flare to the flux levels on different nights before and after the peak. Both F1 and F2 were found to have rise/fall times of \tapp{}$2$ days. The rapid increase in flux at the onset of F1 implies flux doubling timescales of less than a day (see Figure~\ref{f:fig1}). Similar to the findings of \cite{2013ApJ...779...88A}, a hint of nightly variability at a significance level of \tapp{}$3.5\,\sigma$ was found in F1.
+The rise and fall times of the flares was determined by fitting a Gaussian on top of a constant baseline to the light curve of each orbit, and also by comparing the flux on the peak night of each flare to the flux levels on different nights before and after the peak. Both F1 and F2 were found to have rise/fall times of \tapp{}$2$ days. The rapid increase in flux at the onset of F1 implies flux doubling timescales of less than a day. Similar to the findings of \cite{2013ApJ...779...88A}, a hint of nightly variability at a significance level of \tapp{}$3.5\,\sigma$ was found in F1.
 
 Follow-up observations conducted by VERITAS during the next month (2014 December 10\,--\,12) covered the orbital phases of $\phi=0.59-0.67$ and detected the source at a lower flux level, reaching only $7.2 \pm 1.2 \times10^{-12}$\pflux{} ($>$300\gev{}) around the orbital phase at which the flares were detected in the previous orbits. The observations during this month exclude the type of peaked flaring behavior seen at the same phase range in the previous two orbital cycles, perhaps indicating some orbit-to-orbit variations in the source.
 
@@ -179,7 +216,6 @@ This research is supported by grants from the U.S. Department of Energy Office o
 }
 
 \bibliography{refs}
-
 
 \end{document}
 
