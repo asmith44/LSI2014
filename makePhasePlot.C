@@ -1,16 +1,16 @@
 {
   TNtuple *o1=new TNtuple("o1","o1","mjd:phi:f:dfh:dfl");
-  o1->ReadFile("./orbit1.txt");
+  o1->ReadFile("./orbit1_300.txt");
   TNtuple *o2=new TNtuple("o2","o2","mjd:phi:f:dfh:dfl");
-  o2->ReadFile("./orbit2.txt");
+  o2->ReadFile("./orbit2_300.txt");
   TNtuple *o3=new TNtuple("o3","o3","mjd:phi:f:dfh:dfl");
-  o3->ReadFile("./orbit3.txt");
+  o3->ReadFile("./orbit3_300.txt");
   TNtuple *o1ul=new TNtuple("o1ul","o1ul","mjd:phi:dx:f:dfh:dfl");
-  o1ul->ReadFile("./orbit1UL.txt");
+  o1ul->ReadFile("./orbit1_300_ULs.txt");
   TNtuple *o2ul=new TNtuple("o2ul","o2ul","mjd:phi:dx:f:dfh:dfl");
-  o2ul->ReadFile("./orbit2UL.txt");
+  o2ul->ReadFile("./orbit2_300_ULs.txt");
   TNtuple *o3ul=new TNtuple("o3ul","o3ul","mjd:phi:dx:f:dfh:dfl");
-  o3ul->ReadFile("./orbit3UL.txt");
+  o3ul->ReadFile("./orbit3_300_ULs.txt");
   
   o1->Draw("phi:f:dfh:dfl");
   o2->Draw("phi:f:dfh:dfl");
@@ -87,7 +87,7 @@
   g3->Draw("P");
 
   g1ul->GetXaxis()->SetRangeUser(0,1);
-  g1ul->GetYaxis()->SetRangeUser(1e-13,3.5e-11);
+  g1ul->GetYaxis()->SetRangeUser(1e-13,3.7e-11);
   g1ul->GetXaxis()->SetLabelFont(132);
   g1ul->GetYaxis()->SetLabelFont(132);
   g1ul->GetXaxis()->SetTitleFont(132);
@@ -99,7 +99,7 @@
   g1ul->GetYaxis()->SetTitleSize(0.05);
   g1ul->GetYaxis()->SetTitleOffset(0.8);
   g1ul->GetXaxis()->SetTitle("Orbital phase #phi");
-  g1ul->GetYaxis()->SetTitle("Flux (E>350 GeV) [ph cm^{-2} s^{-1}]");
+  g1ul->GetYaxis()->SetTitle("Flux (E>300 GeV) [ph cm^{-2} s^{-1}]");
   g1ul->SetTitle("");
 
   TLegend *l=new TLegend(0.15,0.7,0.5,0.85);

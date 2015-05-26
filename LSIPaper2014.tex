@@ -139,7 +139,7 @@ The data is shown in the different orbits observed, with the first orbit (Octobe
 \tablewidth{0pc}
 \tablecaption{VERITAS observations of \lsi{} in 2014}
 \tablehead{
-\colhead{Date observed [MJD]} & \colhead{Orbital phase ($\phi$)} & \colhead{Flux($>300$\gev{}) [$\times 10^{-11}$ cm$^{-2}$ s$^{-1}$]}}
+\colhead{Date observed [MJD]} & \colhead{Orbital phase ($\phi$)} & \colhead{Flux($>300$\gev{}) [$\times 10^{-11}$ cm$^{-2}$ s$^{-1}$]} }
 \startdata
 56946.3\phn & 0.52\phn & $<$0.15\phn\phn\phd\phn\phm{ }\phs\phm{ }\\  
 56947.3\phn & 0.55\phn & 2.32 $\pm$ 0.54  \\
@@ -205,8 +205,29 @@ where $d_{13}$ is the distance between the emitter and the optical star in units
 t_{\mbox{\scriptsize{sy}}} \approx 4\times10^2 B_{\mbox{\scriptsize{G}}}^{-2} E_{\mbox{\scriptsize{TeV}}}^{-1} \mbox{\,s}.
 \end{equation}
 Hard gamma-ray spectral indices (from $-2$ to $-2.5$) require that $t_{\mbox{\scriptsize{KN}}} < t_{\mbox{\scriptsize{sy}}}$, as IC losses in the Klein--Nishina regime allow for the electron spectra harder than $-2$ necessary to produce such gamma-ray indices. Thus, the magnetic field in the emitter is constrained by the relation
- ${B < 0.6 d_{13}^{-1} E_{\mbox{\scriptsize{TeV}}}^{-0.85} \,\mbox{\,G}}$.
-This gives values of $B \lesssim 0.3$\,G at periastron and $B \lesssim 0.1$\,G at apastron, assuming that the emitter is located close to the compact object. Using these magnetic field values in Equation~\ref{taccel} gives acceleration times in the range $3 \eta_{\mbox{\scriptsize{acc}}}$\,--\,$10 \eta_{\mbox{\scriptsize{acc}}}$. For an efficient (but not extreme) accelerator with $\eta_{\mbox{\scriptsize{acc}}} \approx 50$, this results in acceleration times of a few hundred seconds, much shorter than the observed TeV variability timescales.
+\begin{equation}
+{B < 0.6 d_{13}^{-1} E_{\mbox{\scriptsize{TeV}}}^{-0.85} \,\mbox{\,G}}.
+\end{equation}
+This gives values of $B \lesssim 0.3$\,G at periastron and $B \lesssim 0.1$\,G at apastron, assuming that the emitter is located close to the compact object.
+
+As the cooling time is dominated by $t_{\mbox{\scriptsize{KN}}}$, the requirement that the acceleration time is less than the cooling time yields the relation $t_{\mbox{\scriptsize{acc}}} < t_{\mbox{\scriptsize{KN}}}$ which gives
+\begin{equation}
+B > 10^{-4} d_{13}^{-2} E_{\mbox{\scriptsize{TeV}}}^{0.3} \eta_{\mbox{\scriptsize{acc}}} \,\mbox{\,G}.
+\end{equation}
+This gives values of $B \gtrsim 0.125 \eta_{\mbox{\scriptsize{acc}}} \,\mbox{\,G}$ at periastron and $B \gtrsim 0.011 \eta_{\mbox{\scriptsize{acc}}} \,\mbox{\,G}$ at apastron, if the emitter is close to the compact object. Using the lower and upper limits on the magentic field strength, an upper limit can be placed on the acceleration efficieny of $\eta_{\mbox{\scriptsize{acc}}} \lesssim 120$ at periastron and $\eta_{\mbox{\scriptsize{acc}}} \lesssim 454$ at apastron.
+
+Figure~\ref{f:tacc} shows the acceleration time $t_{\mbox{\scriptsize{acc}}}$ as a function of the magnetic field strength $B$ for different values of the accelerator efficiency $\eta_{\mbox{\scriptsize{acc}}}$, assuming an electron energy of 10\tev{}. The upper limits on the magnetic field strength at periastron and apastron, which are independent of $\eta_{\mbox{\scriptsize{acc}}}$, are marked. Two areas of the plot are shaded to indicate the allowed regions of the parameter space, corresponding to $t_{\mbox{\scriptsize{acc}}} < 1$\,day, $B < 0.3$\,G, and $\eta_{\mbox{\scriptsize{acc}}} < 120$ at periastron, and $t_{\mbox{\scriptsize{acc}}} < 1$\,day, $B < 0.1$\,G, and $\eta_{\mbox{\scriptsize{acc}}} < 454$ at apastron.
+
+The constraints are strongly dependent on the location of the emitter, which has been assumed to be conincident with the compact object in order to derive these limits. A more detailed discussion of the relationships is presented in \citet{2008MNRAS.383..467K}.
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=0.5\textwidth]{figs/taccvsB_areas.pdf}
+\caption{Acceleration time $t_{\mbox{\scriptsize{acc}}}$ as a function of the magnetic field strength $B$ for different values of the accelerator efficiency $\eta_{\mbox{\scriptsize{acc}}}$, assuming an electron energy of 10\tev{}. The horizontal dotted line marks an acceleration time of one day, the maximum acceleration time of the 10\tev{} electrons in the system from these observations. The vertical lines marked $B_{\mbox{\scriptsize{apastron}}}$ and $B_{\mbox{\scriptsize{periastron}}}$ mark the upper limits on the magnetic field strength at apastron and periastron respectively (these limits are independent of $\eta_{\mbox{\scriptsize{acc}}}$). The shaded regions show the allowed regions of the parameter space for the system at apastron and periastron.}
+\label{f:tacc}
+\end{figure}
+
+% Using these magnetic field values in Equation~\ref{taccel} gives acceleration times in the range $3 \eta_{\mbox{\scriptsize{acc}}}$\,--\,$10 \eta_{\mbox{\scriptsize{acc}}}$. For an efficient (but not extreme) accelerator with $\eta_{\mbox{\scriptsize{acc}}} \approx 50$, this results in acceleration times of a few hundred seconds, much shorter than the observed TeV variability timescales.
 
 \citet{Paredes-Fortuny2014} present a general pulsar wind shock scenario with an inhomogeneous stellar wind in which the Be star disc is disrupted and fragments, and these fragments fall into the shock region, pushing it closer to the pulsar. The reduction in size of the pulsar wind termination shock could allow for increased acceleration efficiency on the timescale of a few hours, depending on the size and density of the disc fragments. Such a scenario could account for the exceptionally bright TeV flares and orbit-to-orbit variations seen in \lsi{}.
 \vspace{2ex}
