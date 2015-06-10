@@ -120,9 +120,9 @@ Hutchings, J., \& Crampton, D. 1981, PASP, 93, 486
   {Bosch-Ramon}}]{2008MNRAS.383..467K}
 {Khangulyan}, D., {Aharonian}, F., \& {Bosch-Ramon}, V. 2008, \mnras, 383, 467
 
-\bibitem[{{Kieda, D., for the VERITAS Collaboration}(2013)}]{KiedaVTSUpgrade}
-{Kieda, D., for the VERITAS Collaboration}. 2013, in Proceedings of the 33rd
-  International Cosmic Ray Conference (ICRC2013)
+\bibitem[{{Kieda, D.}(2013)}]{KiedaVTSUpgrade}
+{Kieda, D.} 2013, in Proceedings of the 33rd International Cosmic Ray
+  Conference (ICRC2013)
 
 \bibitem[{Li {et~al.}(2012)}]{LiXray}
 Li, J., {et~al.} 2012, ApJ, 744, L13
@@ -144,5 +144,9 @@ Massi, M., {et~al.} 2001, A\&A, 376, 217
   {Bosch-Ramon, V.}, {Perucho, M.}, \& {Ribó, M.}}]{Paredes-Fortuny2014}
 {Paredes-Fortuny, X.}, {Bosch-Ramon, V.}, {Perucho, M.}, \& {Ribó, M.} 2015,
   A\&A, 574, A77
+
+\bibitem[{{Rolke} {et~al.}(2005){Rolke}, {L{\'o}pez}, \& {Conrad}}]{Rolke}
+{Rolke}, W.~A., {L{\'o}pez}, A.~M., \& {Conrad}, J. 2005, Nuclear Instruments
+  and Methods in Physics Research A, 551, 493
 
 \end{thebibliography}

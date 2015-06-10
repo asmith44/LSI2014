@@ -1,46 +1,47 @@
-This is BibTeX, Version 0.99c (Web2C 7.5.6)
+This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_3)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: LSIPaper2014.aux
 The style file: apj.bst
 Database file #1: refs.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 25 entries,
+You've used 26 entries,
             3085 wiz_defined-function locations,
-            811 strings with 14513 characters,
-and the built_in function-call counts, 15316 in all, are:
-= -- 965
-> -- 1672
+            820 strings with 14722 characters,
+and the built_in function-call counts, 15775 in all, are:
+= -- 1006
+> -- 1702
 < -- 16
-+ -- 552
-- -- 564
-* -- 1519
-:= -- 3073
-add.period$ -- 25
-call.type$ -- 25
-change.case$ -- 140
-chr.to.int$ -- 24
-cite$ -- 25
-duplicate$ -- 472
-empty$ -- 716
-format.name$ -- 616
-if$ -- 2901
++ -- 562
+- -- 575
+* -- 1557
+:= -- 3158
+add.period$ -- 26
+call.type$ -- 26
+change.case$ -- 147
+chr.to.int$ -- 25
+cite$ -- 26
+duplicate$ -- 491
+empty$ -- 744
+format.name$ -- 628
+if$ -- 2993
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 24
-newline$ -- 79
-num.names$ -- 100
-pop$ -- 150
+missing$ -- 25
+newline$ -- 82
+num.names$ -- 104
+pop$ -- 158
 preamble$ -- 1
-purify$ -- 140
+purify$ -- 147
 quote$ -- 0
-skip$ -- 401
+skip$ -- 416
 stack$ -- 0
-substring$ -- 543
+substring$ -- 564
 swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 225
+type$ -- 234
 warning$ -- 0
-while$ -- 92
+while$ -- 96
 width$ -- 0
-write$ -- 252
+write$ -- 262
