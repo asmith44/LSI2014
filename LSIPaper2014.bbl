@@ -106,6 +106,9 @@ Dhawan, V., {et~al.} 2006, in Proc. of Microquasars and Beyond:From Binaries to
   \& Marelli}]{Esposito2007}
 Esposito, P., Caraveo, P.~A., Pellizzoni, A., {et~al.} 2007, A$\&$A, 474, 575
 
+\bibitem[{{Frail} \& {Hjellming}(1991)}]{1991AJ....101.2126F}
+{Frail}, D.~A., \& {Hjellming}, R.~M. 1991, \aj, 101, 2126
+
 \bibitem[{{Holder}(2015)}]{2015VTSATEL}
 {Holder}, J. 2015, The Astronomer's Telegram, 6785
 
@@ -140,9 +143,9 @@ Li, T.-P., \& Ma, Y.-Q. 1983, The Astrophysical Journal, 272, 317
 \bibitem[{Massi {et~al.}(2001)}]{Massi2001}
 Massi, M., {et~al.} 2001, A\&A, 376, 217
 
-\bibitem[{{Paredes-Fortuny, X.} {et~al.}(2015){Paredes-Fortuny, X.},
-  {Bosch-Ramon, V.}, {Perucho, M.}, \& {Ribó, M.}}]{Paredes-Fortuny2014}
-{Paredes-Fortuny, X.}, {Bosch-Ramon, V.}, {Perucho, M.}, \& {Ribó, M.} 2015,
+\bibitem[{{Paredes-Fortuny} {et~al.}(2015){Paredes-Fortuny}, {Bosch-Ramon},
+  {Perucho}, \& {Ribó}}]{Paredes-Fortuny2014}
+{Paredes-Fortuny}, X., {Bosch-Ramon}, V., {Perucho}, M., \& {Ribó}, M. 2015,
   A\&A, 574, A77
 
 \bibitem[{{Rolke} {et~al.}(2005){Rolke}, {L{\'o}pez}, \& {Conrad}}]{Rolke}
