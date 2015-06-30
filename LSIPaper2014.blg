@@ -3,44 +3,44 @@ The top-level auxiliary file: LSIPaper2014.aux
 The style file: apj.bst
 Database file #1: refs.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 27 entries,
+You've used 28 entries,
             3085 wiz_defined-function locations,
-            829 strings with 14909 characters,
-and the built_in function-call counts, 16204 in all, are:
-= -- 1046
-> -- 1724
-< -- 17
-+ -- 569
-- -- 582
-* -- 1589
-:= -- 3235
-add.period$ -- 27
-call.type$ -- 27
-change.case$ -- 153
-chr.to.int$ -- 26
-cite$ -- 27
-duplicate$ -- 510
-empty$ -- 773
-format.name$ -- 639
-if$ -- 3082
+            838 strings with 15094 characters,
+and the built_in function-call counts, 16616 in all, are:
+= -- 1085
+> -- 1746
+< -- 18
++ -- 576
+- -- 589
+* -- 1617
+:= -- 3313
+add.period$ -- 28
+call.type$ -- 28
+change.case$ -- 158
+chr.to.int$ -- 27
+cite$ -- 28
+duplicate$ -- 529
+empty$ -- 801
+format.name$ -- 649
+if$ -- 3168
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 26
-newline$ -- 85
-num.names$ -- 108
-pop$ -- 165
+missing$ -- 27
+newline$ -- 88
+num.names$ -- 112
+pop$ -- 169
 preamble$ -- 1
-purify$ -- 153
+purify$ -- 158
 quote$ -- 0
-skip$ -- 433
+skip$ -- 450
 stack$ -- 0
-substring$ -- 588
+substring$ -- 609
 swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 243
+type$ -- 252
 warning$ -- 0
-while$ -- 100
+while$ -- 104
 width$ -- 0
-write$ -- 272
+write$ -- 282
