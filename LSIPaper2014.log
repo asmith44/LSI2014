@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.6.29)  30 JUN 2015 12:18
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.6.29)  10 JUL 2015 15:48
 entering extended mode
  %&-line parsing enabled.
 **LSIPaper2014.tex
@@ -260,7 +260,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 [][]\OT1/cmr/m/n/8 http://veritas.sao.arizona.edu/about-veritas-mainmenu-
  []
 
-<./figs/fluxvphase_300.pdf, id=18, 569.12625pt x 385.44pt>
+<./figs/fluxvphase_300.pdf, id=18, 569.32701pt x 385.44pt>
 File: ./figs/fluxvphase_300.pdf Graphic file (type pdf)
 
 <use ./figs/fluxvphase_300.pdf>
@@ -269,13 +269,17 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 130--133
  []
 
 Page 1 of table 2 has been set to width 366.77846pt with 44 lines per page 
-[2 <./figs/fluxvphase_300.pdf, page is rotated 90 degrees>] [3]
+[2 <./figs/fluxvphase_300.pdf
+
+pdfTeX warning: pdflatex (file ./figs/fluxvphase_300.pdf): PDF inclusion: Page 
+Group detected which pdfTeX can't handle. Ignoring it.
+>] [3]
 Overfull \hbox (2.02077pt too wide) in paragraph at lines 187--189
 \OT1/cmr/m/n/10 ob-ser-va-tions, with $\OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = [
 ] \OMS/cmsy/m/n/10 ^^B
  []
 
-<figs/all_spectra_coloured.pdf, id=70, 569.32701pt x 550.055pt>
+<figs/all_spectra_coloured.pdf, id=158, 569.32701pt x 550.055pt>
 File: figs/all_spectra_coloured.pdf Graphic file (type pdf)
 
 <use figs/all_spectra_coloured.pdf>
@@ -292,7 +296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
 pdfTeX warning: pdflatex (file ./figs/all_spectra_coloured.pdf): PDF inclusion:
  Page Group detected which pdfTeX can't handle. Ignoring it.
->] <figs/taccvsB_areas.pdf, id=228, 569.32701pt x 500.269pt>
+>] <figs/taccvsB_areas.pdf, id=316, 569.32701pt x 500.269pt>
 File: figs/taccvsB_areas.pdf Graphic file (type pdf)
 
 <use figs/taccvsB_areas.pdf>
@@ -303,21 +307,21 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 235--236
 [5] (./LSIPaper2014.bbl
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ³ in font cmr9!
-) [6 <./figs/taccvsB_areas.pdf
+ [6 <./figs/taccvsB_areas.pdf
 
 pdfTeX warning: pdflatex (file ./figs/taccvsB_areas.pdf): PDF inclusion: Page G
 roup detected which pdfTeX can't handle. Ignoring it.
->] [7
+>]) [7
 
 ] (./LSIPaper2014.aux) ) 
 Here is how much of TeX's memory you used:
  2627 strings out of 256216
  32541 string characters out of 1917072
- 92723 words of memory out of 1500000
+ 91772 words of memory out of 1500000
  5883 multiletter control sequences out of 10000+200000
  16489 words of font info for 68 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 32i,9n,27p,1620b,296s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 32i,9n,27p,1622b,296s stack positions out of 5000i,500n,6000p,200000b,15000s
  </afs/ifh.de/user/a/aofdeb/.texlive2007/texmf-var/font
 s/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texmf/fonts/type1/bluesky/cm
 /cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/tex
@@ -332,9 +336,9 @@ hare/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/blue
 sky/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/shar
 e/texmf/fonts/type1/bluesky/cm/cmti9.pfb></usr/share/texmf/fonts/type1/bluesky/
 ams/msam10.pfb>
-Output written on LSIPaper2014.pdf (7 pages, 291192 bytes).
+Output written on LSIPaper2014.pdf (7 pages, 322848 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
+ 660 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
