@@ -232,10 +232,6 @@ Hutchings, J., \& Crampton, D. 1981, PASP, 93, 486
 {Kieda, D.} 2013, in Proceedings of the 33rd International Cosmic Ray
   Conference (ICRC2013)
 
-\bibitem[{{Li} {et~al.}(2012){Li}, {Torres}, {Zhang}, {Hadasch}, {Rea},
-  {Caliandro}, {Chen}, \& {Wang}}]{LiXray}
-{Li}, J., {Torres}, D.~F., {Zhang}, S., {et~al.} 2012, ApJ, 744, L13
-
 \bibitem[{Li \& Ma(1983)}]{LiMa}
 Li, T.-P., \& Ma, Y.-Q. 1983, The Astrophysical Journal, 272, 317
 
@@ -256,6 +252,16 @@ Li, T.-P., \& Ma, Y.-Q. 1983, The Astrophysical Journal, 272, 317
 {Massi}, M., {Rib{\'o}}, M., {Paredes}, J.~M., {Peracaula}, M., \& {Estalella},
   R. 2001, A\&A, 376, 217
 
+\bibitem[{{Paredes} {et~al.}(1997){Paredes}, {Marti}, {Peracaula}, \&
+  {Ribo}}]{1997A&A...320L..25P}
+{Paredes}, J.~M., {Marti}, J., {Peracaula}, M., \& {Ribo}, M. 1997, \aap, 320,
+  L25
+
+\bibitem[{{Paredes} {et~al.}(1994){Paredes}, {Marziani}, {Marti}, {Fabregat},
+  {Coe}, {Everall}, {Figueras}, {Jordi}, {Norton}, {Prince}, {Reglero},
+  {Roche}, {Torra}, {Unger}, \& {Zamanov}}]{1994A&A...288..519P}
+{Paredes}, J.~M., {Marziani}, P., {Marti}, J., {et~al.} 1994, \aap, 288, 519
+
 \bibitem[{{Paredes-Fortuny} {et~al.}(2015){Paredes-Fortuny}, {Bosch-Ramon},
   {Perucho}, \& {Rib\'{o}}}]{Paredes-Fortuny2014}
 {Paredes-Fortuny}, X., {Bosch-Ramon}, V., {Perucho}, M., \& {Rib\'{o}}, M.
@@ -264,5 +270,8 @@ Li, T.-P., \& Ma, Y.-Q. 1983, The Astrophysical Journal, 272, 317
 \bibitem[{{Rolke} {et~al.}(2005){Rolke}, {L{\'o}pez}, \& {Conrad}}]{Rolke}
 {Rolke}, W.~A., {L{\'o}pez}, A.~M., \& {Conrad}, J. 2005, Nuclear Instruments
   and Methods in Physics Research A, 551, 493
+
+\bibitem[{{Taylor} \& {Gregory}(1982)}]{1982ApJ...255..210T}
+{Taylor}, A.~R., \& {Gregory}, P.~C. 1982, \apj, 255, 210
 
 \end{thebibliography}

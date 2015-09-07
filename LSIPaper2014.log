@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.11.26)  3 SEP 2015 21:56
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.11.26)  7 SEP 2015 13:23
 entering extended mode
  %&-line parsing enabled.
 **LSIPaper2014.tex
@@ -322,8 +322,8 @@ Overfull \vbox (4.16568pt too high) has occurred while \output is active []
 [1{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-]
-<./figs/fluxvphase_300_mod1.pdf, id=17, 569.32701pt x 385.44pt>
+] [2]
+<./figs/fluxvphase_300_mod1.pdf, id=23, 569.32701pt x 385.44pt>
 File: ./figs/fluxvphase_300_mod1.pdf Graphic file (type pdf)
 
 <use ./figs/fluxvphase_300_mod1.pdf>
@@ -331,12 +331,12 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 188--191
  [][] 
  []
 
-Page 1 of table 2 has been set to width 310.09769pt with 44 lines per page 
-[2] [3] [4 <./figs/fluxvphase_300_mod1.pdf
+Page 1 of table 2 has been set to width 305.09767pt with 44 lines per page 
+[3 <./figs/fluxvphase_300_mod1.pdf
 
 pdfTeX warning: pdflatex (file ./figs/fluxvphase_300_mod1.pdf): PDF inclusion: 
 Page Group detected which pdfTeX can't handle. Ignoring it.
->]
+>] [4]
 Page 1 of table 3 has been set to width 386.1514pt with 44 lines per page 
 <figs/all_spectra_coloured.pdf, id=184, 569.32701pt x 541.22202pt>
 File: figs/all_spectra_coloured.pdf Graphic file (type pdf)
@@ -359,10 +359,10 @@ pdfTeX warning: pdflatex (file ./figs/all_spectra_coloured.pdf): PDF inclusion:
 
 ] (./LSIPaper2014.aux) ) 
 Here is how much of TeX's memory you used:
- 3210 strings out of 256216
- 38840 string characters out of 1917071
- 127918 words of memory out of 1500000
- 6452 multiletter control sequences out of 10000+200000
+ 3212 strings out of 256216
+ 38895 string characters out of 1917071
+ 125122 words of memory out of 1500000
+ 6454 multiletter control sequences out of 10000+200000
  16154 words of font info for 67 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  32i,10n,27p,2114b,308s stack positions out of 5000i,500n,6000p,200000b,15000s
@@ -380,7 +380,7 @@ s/type1/bluesky/cm/cmr9.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmss8.pfb>
 e1/bluesky/cm/cmsy6.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy7.pfb></us
 r/share/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/b
 luesky/cm/cmti9.pfb></usr/share/texmf/fonts/type1/bluesky/ams/msam10.pfb>
-Output written on LSIPaper2014.pdf (8 pages, 320753 bytes).
+Output written on LSIPaper2014.pdf (8 pages, 321595 bytes).
 PDF statistics:
  419 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
